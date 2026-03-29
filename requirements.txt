@@ -1,0 +1,5 @@
+pandas #data manipulations work
+numpy #used for numerical computation and array operations
+scikit-learn #for model implementation and evaluation like desicison tree
+matplotlib # for graphs and their diagrams
+seaborn # used for high level visualization
